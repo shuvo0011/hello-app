@@ -1,4 +1,4 @@
-from logic import greet
+from logic import greet, add
 
 
 def test_greet_name():
